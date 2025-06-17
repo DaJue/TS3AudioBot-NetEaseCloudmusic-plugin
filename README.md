@@ -5,7 +5,8 @@
 **2.0版本之后可以不需要本地部署网易云API了，但是强烈建议自行部署防止隐私泄露  **  
 
 2025.6.17
-留给自己的安装方式
+# 留给自己的安装方式
+
 需要本插件的对 ts3audiobot 的重编译基础配合NeteaseMusicApi [http://47.109.197.21:3000/docs/#/?id=%e7%81%b5%e6%84%9f%e6%9d%a5%e8%87%aa](https://gitee.com/davie/NeteaseCloudMusicApi/tree/master#https://gitee.com/link?target=https%3A%2F%2Fgithub.com%2FBinaryify%2FNeteaseCloudMusicApi%2Fblob%2Fmaster%2FCHANGELOG.MD) 以及  https://github.com/577fkj/TS3AudioBot-CloudMusic-plugin  来使用。
 登录的时候使用cookie登录  http://www.pswp.cn/bicheng/19776.shtml?action=onClick  
 安装的时候需要在ts3audiobot 的目录下新建plugins文件夹
